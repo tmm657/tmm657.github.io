@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "<h1>"#Why software engineering"?"
-date:       2020-05-20 07:43:21 +0000
+title:      "'Why software engineering'?"
+date:       2020-05-20 03:43:22 -0400
 permalink:  h1_why_software_engineering
 ---
 
