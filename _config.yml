@@ -1,11 +1,11 @@
 # Site settings
-author: Teresa Mendoza
-title: 
+author: Teresa
+title: Cyber travels
 header-img: img/home-bg.png
 email: tmendoza657@gmail.com
-copyright_name: Teresa Mendoza
+copyright_name: Teresa
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A software journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tmm657
