@@ -12,11 +12,14 @@ I didn't always want to get into software engineering.  I have a passion for pri
 		  I started out by downloading an app(grasshopper) on my phone to do something in my spare time. I would complete the levels as days went by and I found myself enjoying it so much I downloaded another app(mimo) and proceeded with my voluntary learning journey. I use these daily to help keep my mind fresh and I just do them in my spare time instead of playing a pointless game on my phone.  I stumbled upon an app called career karma and it peaked my interest entirely.  Through the career karma app I've stumbled upon another app(sololearn) and all these apps are great if you're wanting to learn code,  but career karma is what made me decide I wanted to be a software engineer and with all the tools and online community willing to help with such great resources to offer it was practically screaming out this is the job for you.  For those of you interested I will provide links for all apps at the end of this post. 
 			 So here I am eager to pursue this journey and start my new career once school is over. Everyday is a learning process so I'm not sure who is ever truly over.  
 			 
-			 Grasshopper- The @GrasshopperApp is teaching me how to code through fun, basic puzzles. https://ghop.page.link/Profile
-			 
-			 Mimo- https://play.google.com/store/apps/details?id=com.getmimo
-			 
-			 Career Karma- https://ck.chat/872ac8
-			 
-			 Sololearn- Scrolling through cat pics? Scrolling through SoloLearn moves you more. https://www.sololearn.com/?ref=app-text3 
 	
+
+<p>
+Apps:<br />
+<a href="https://ghop.page.link/Profile">Grasshopper</a><br />
+<a href=" https://play.google.com/store/apps/details?id=com.getmimo">Mimo</a><br />
+<a href="https://ck.chat/872ac8">Career Karma</a><br />
+<a href="			 Sololearn- Scrolling through cat pics? Scrolling through SoloLearn moves you more. https://www.sololearn.com/?ref=app-text3">SoloLearn</a><br/>
+
+</p>
+
