@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "'Why software engineering'?"
+title:      "Why software engineering?"
 date:       2020-05-20 03:43:22 -0400
 permalink:  h1_why_software_engineering
 ---
@@ -19,7 +19,7 @@ Apps:<br />
 <a href="https://ghop.page.link/Profile">Grasshopper</a><br />
 <a href=" https://play.google.com/store/apps/details?id=com.getmimo">Mimo</a><br />
 <a href="https://ck.chat/872ac8">Career Karma</a><br />
-<a href="			 Sololearn- Scrolling through cat pics? Scrolling through SoloLearn moves you more. https://www.sololearn.com/?ref=app-text3">SoloLearn</a><br/>
+<a href="https://www.sololearn.com/?ref=app-text3">SoloLearn</a><br/>
 
 </p>
 
