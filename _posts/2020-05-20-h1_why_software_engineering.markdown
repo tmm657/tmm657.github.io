@@ -16,7 +16,7 @@ I didn't always want to get into software engineering.  I have a passion for pri
 
 <p>
 Apps:<br />
-<a href="https://ghop.page.link/Profile">Grasshopper</a><br />
+<a href="https://learn.grasshopper.app/">Grasshopper</a><br />
 <a href=" https://play.google.com/store/apps/details?id=com.getmimo">Mimo</a><br />
 <a href="https://ck.chat/872ac8">Career Karma</a><br />
 <a href="https://www.sololearn.com/?ref=app-text3">SoloLearn</a><br/>
